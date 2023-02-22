@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d288986-d107-4d77-a801-8c5b6b8994ea" name="Changes" comment="Merge branch 'Laboratory'" />
+    <list default="true" id="1d288986-d107-4d77-a801-8c5b6b8994ea" name="Changes" comment="Laboratory_Week04">
+      <change afterPath="$PROJECT_DIR$/Laboratory/Week04/Lab04_Plotting_with_pandas.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
