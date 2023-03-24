@@ -4,13 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d288986-d107-4d77-a801-8c5b6b8994ea" name="Changes" comment="Laboratory_Week09">
-      <change afterPath="$PROJECT_DIR$/Assignment/02Exploratory Data Analysis (jupyter notebook)/Assignment_2_data_descriptions.ipynb_jhwa426 - Colaboratory.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/02Exploratory Data Analysis (jupyter notebook)/Assignment_2_data_descriptions_ipynb_jhwa426.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/02Exploratory Data Analysis (jupyter notebook)/file/Assignment #2 - Exploratory Data Analysis (jupyter notebook).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/02Exploratory Data Analysis (jupyter notebook)/file/house_price_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/02Exploratory Data Analysis (jupyter notebook)/file/house_price_train_table.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/02Exploratory Data Analysis (jupyter notebook)/file/house_price_train_table.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
